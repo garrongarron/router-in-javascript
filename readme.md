@@ -4,4 +4,6 @@
 How to emulate request of full pages and cache pages visited
 `
 
- Chating and Coding (streaming) => [Youtube](https://www.youtube.com/watch?v=vLlCBTZRnoE)
+See the project [here](https://garrongarron.github.io/router-in-javascript/index.html)
+
+Chating and Coding (streaming) => [Youtube](https://www.youtube.com/watch?v=vLlCBTZRnoE)
